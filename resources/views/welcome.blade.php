@@ -7,7 +7,7 @@
     </head>
     <body>
         <div id="app">
-            <example></example>
+            <my-component></my-component>
         </div>
         <script src="/js/app.js"></script>
     </body>
